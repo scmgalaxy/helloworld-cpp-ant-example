@@ -1,0 +1,8 @@
+<project name="x">
+
+<exec executable="/usr/bin/git">
+  <arg value="clone"/>
+  <arg value="https://github.com/scmgalaxy/helloworld-cpp-ant.git"/>
+</exec>
+</project>
+
